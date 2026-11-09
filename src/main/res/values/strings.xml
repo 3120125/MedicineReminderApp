@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedicineReminderApp</string>
+    <string name="title_activity_add_medication">AddMedicationActivity</string>
+</resources>
